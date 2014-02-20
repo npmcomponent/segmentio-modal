@@ -1,0 +1,23 @@
+{
+  "name": "segmentio-modal",
+  "description": "A simple modal UI component.",
+  "version": "0.3.0",
+  "keywords": [
+    "modal",
+    "ui",
+    "overlay"
+  ],
+  "main": "lib/index.js",
+  "styles": [
+    "lib/index.css"
+  ],
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "segmentio-overlay": "git://github.com/npmcomponent/segmentio-overlay.git",
+    "segmentio-showable": "git://github.com/npmcomponent/segmentio-showable.git",
+    "segmentio-on-escape": "git://github.com/npmcomponent/segmentio-on-escape.git",
+    "ianstormtaylor-classes": "git://github.com/npmcomponent/ianstormtaylor-classes.git"
+  },
+  "license": "MIT"
+}
